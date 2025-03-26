@@ -18,14 +18,6 @@
 ## 🧠 Learning Journey
 
 I’m actively solving problems on [LeetCode](https://leetcode.com/studyplan/leetcode-75/) &  [NeetCode](https://neetcode.io/roadmap)  and documenting my progress here.
-
-### 📘 Daily DSA Log – March 2025
-
-| Date       | Problem Title                                                              | Topic(s)            | Status   | Notes                                   |
-|------------|-----------------------------------------------------------------------------|---------------------|----------|----------------------------------------|
-| 03/26/2025 | [Two Sum](https://leetcode.com/problems/two-sum/)                          | Array, HashMap      | ✅ Solved | Warm-up for the day                    |
-| 03/27/2025 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)          | Linked List         | 🔄 Solving | Reviewing edge cases                  |
-
 ---
 
 📚 Detailed DSA Notes → [View on Notion](https://www.notion.so/Derya-s-DSA-Notes-1c213ec76d5680afa31dce8c61178675?pvs=4)
