@@ -7,7 +7,7 @@
 🌍 Currently based in California, exploring new technologies and career opportunities in the U.S. tech scene  
 🧠 Sharpening my skills in system design, algorithms, and cloud infrastructure  
 🌱 #learninginpublic through LeetCode, side projects, and tech communities  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/deryakendircikahraman/)  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/deryakendirci/)  
 ☕ Fun fact: I love solving tech problems with a cup of strong Turkish coffee by my side!
 
 🎯 Currently focused on:
