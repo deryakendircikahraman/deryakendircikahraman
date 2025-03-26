@@ -18,6 +18,7 @@
 ## 🧠 Learning Journey
 
 I’m actively solving problems on [LeetCode](https://leetcode.com/studyplan/leetcode-75/) &  [NeetCode](https://neetcode.io/roadmap)  and documenting my progress here.
+
 ---
 
 📚 Detailed DSA Notes → [View on Notion](https://www.notion.so/Derya-s-DSA-Notes-1c213ec76d5680afa31dce8c61178675?pvs=4)
