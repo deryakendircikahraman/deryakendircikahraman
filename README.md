@@ -25,7 +25,6 @@ I’m actively solving problems on [LeetCode](https://leetcode.com/studyplan/lee
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 
-![Derya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deryakendircikahraman&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deryakendircikahraman&layout=compact&theme=radical)
 
 # 💻 Tech Stack
